@@ -10,7 +10,7 @@ This package needs to be installed directly from Github since it is not availabl
 
 1. make sure you have installed the devtools package (run `install.packages("devtools")` in R console). If you are on Windows, you need to install Rtools first (download the most recent version [here](https://cran.r-project.org/bin/windows/Rtools/)). 
 
-2. Run `devtools::install("CSAFE-ISU/solefinder")`.
+2. Run `devtools::install_github("CSAFE-ISU/solefinder")`.
 
 ### Install solefinder-app
 
